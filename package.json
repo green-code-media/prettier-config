@@ -1,0 +1,19 @@
+{
+  "name": "@green-code/prettier-config",
+  "version": "1.0.1",
+  "description": "Prettier Config",
+  "main": "config.js",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "homepage": "https://github.com/green-code/prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/green-code/prettier-config"
+  },
+  "peerDependencies": {
+    "prettier": "*"
+  }
+}
